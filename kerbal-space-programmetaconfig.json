@@ -1,66 +1,61 @@
 [
     {
-        "ConfigFile": "Configs/ConnectionSettings.xml",
+        "ConfigFile": "Config/ConnectionSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Configs/CraftSettings.xml",
+        "ConfigFile": "Config/CraftSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Configs/DebugSettings.xml",
+        "ConfigFile": "Config/DebugSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Configs/DedicatedServerSettings.xml",
+        "ConfigFile": "Config/DedicatedServerSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Configs/GameplaySettings.xml",
+        "ConfigFile": "Config/GameplaySettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Configs/GeneralSettings.xml",
+        "ConfigFile": "Config/GeneralSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Configs/IntervalSettings.xml",
+        "ConfigFile": "Config/IntervalSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Configs/LMPModControl.xml",
+        "ConfigFile": "Config/LMPModControl.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Configs/LogSettings.xml",
+        "ConfigFile": "Config/LogSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Configs/MasterServerSettings.xml",
+        "ConfigFile": "Config/MasterServerSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Configs/ScreenshotSettings.xml",
+        "ConfigFile": "Config/ScreenshotSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Configs/WarpSettings.xml",
-        "ConfigType": "xml",
-        "AutoMap": true
-    },
-    {
-        "ConfigFile": "Configs/WebsiteSettings.xml",
+        "ConfigFile": "Config/WarpSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     }

@@ -2,8 +2,8 @@
     {
         "Protocol": "UDP",
         "Port": "8800",
-        "Name": "LMP - UDP",
+        "Name": "Main Game Port",
         "Description": "Port used for main game traffic",
-        "Ref": "LMP-UDP"
+        "Ref": "MainGamePort"
     }
 ]
