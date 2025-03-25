@@ -1,0 +1,67 @@
+[
+    {
+        "ConfigFile": "Configs/ConnectionSettings.xml",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Configs/CraftSettings.xml",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Configs/DebugSettings.xml",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Configs/DedicatedServerSettings.xml",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Configs/GameplaySettings.xml",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Configs/GeneralSettings.xml",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Configs/IntervalSettings.xml",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Configs/LMPModControl.xml",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Configs/LogSettings.xml",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Configs/MasterServerSettings.xml",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Configs/ScreenshotSettings.xml",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Configs/WarpSettings.xml",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Configs/WebsiteSettings.xml",
+        "ConfigType": "xml",
+        "AutoMap": true
+    }
+]

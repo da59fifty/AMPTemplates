@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "Kerbal Space Program",
+        "Category": "Server Settings",
+        "Description": "Matt loves the stick",
+        "Keywords": "kerbal,space,program",
+        "FieldName": "",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
