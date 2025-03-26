@@ -4,7 +4,7 @@
         "UpdateSourcePlatform": "Linux",
         "UpdateSource": "GithubRelease",
         "UpdateSourceData": "LunaMultiplayer-Server-linux-x64-Release.zip",
-        "UpdateSourceArgs": "LunaMultiplayer/LunaMultiplayer/Luna Multi Player Nightly",
+        "UpdateSourceArgs": "LunaMultiplayer/LunaMultiplayer:0.29.0-Draft",
         "UpdateSourceTarget": "serverfiles",
         "UnzipUpdateSource": true,
         "OverwriteExistingFiles": false,
