@@ -2,12 +2,12 @@
     {
         "UpdateStageName": "KSP Luna Server Download",
         "UpdateSourcePlatform": "Linux",
-        "UpdateSource": "GithubRelease",
-        "UpdateSourceData": "LunaMultiplayer-Server-linux-x64-Release.zip",
+        "UpdateSource": "FetchURL",
+        "UpdateSourceData": "https://github.com/LunaMultiplayer/LunaMultiplayer/releases/download/0.29.0-Draft/LunaMultiplayer-Server-linux-x64-Release.zip",
         "UpdateSourceArgs": "LunaMultiplayer/LunaMultiplayer@0.29.0-Draft",
-        "UpdateSourceTarget": "serverfiles",
         "UnzipUpdateSource": true,
         "OverwriteExistingFiles": false,
+        "UpdateSourceConditionValue": "",
         "DeleteAfterExtract": true,
         "OneShot": false
     }
